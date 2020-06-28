@@ -17,7 +17,8 @@ function Home() {
         <img id="pic" src={require("./me.jpg")} className="rounded-circle" alt=""></img>
     </div>
     <br></br>
-    <p className="d-flex justify-content-center text-warning">My name is Chase Graffeo I'm a Fullstack Software Developer and single Father.<br></br> I enjoy spending time with my son, video games, anime, traveling and all food. </p>
+    <p className="d-flex justify-content-center text-warning"> My name is Chase.</p>
+    <p className="d-flex justify-content-center text-warning">I enjoy spending time with my son, video games, anime, traveling and all food. </p>
 </Container>
    <br></br>
 <Container className="main d-flex justify-content-center">
