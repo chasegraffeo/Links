@@ -58,7 +58,7 @@ function Home() {
        <Card.Body className="card-body d-flex justify-content-center text-warning bg-secondary">
          <AiFillGithub size="30px" />
          <a href="https://github.com/chasegraffeo" className="d-flex justify-content-center text-warning">
-           <h4>Visit my Github</h4>
+           <h4>My Github</h4>
          </a>
        </Card.Body>
      </Card>
