@@ -25,7 +25,7 @@ function Home() {
         <Card.Body className="card-body d-flex justify-content-center text-warning bg-secondary  ">
           <AiFillFacebook size="30px" />
           <a href="https://www.facebook.com/chase.graffeo.7" className="d-flex justify-content-center text-warning ">
-            <h4>Want to be Friends</h4>
+            <h4>Lets be Friends</h4>
           </a>
         </Card.Body>
       </Card>
